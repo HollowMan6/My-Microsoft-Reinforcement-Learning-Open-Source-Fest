@@ -19,6 +19,10 @@
 
 [申请时的筛选挑战](https://github.com/HollowMan6/vowpal_wabbit/commit/41b6d4c4eef65b94734bd0c228fde2b15d8a2ff5)
 
+[2022 结项PPT](slides.pptx)
+
+[2022 结项报告](report.md)
+
 # My Microsoft Reinforcement Learning Open Source Fest
 This is my work and record under Microsoft Reinforcement Learning Open Source Fest.
 
@@ -27,3 +31,7 @@ This is my work and record under Microsoft Reinforcement Learning Open Source Fe
 | [2022](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)  | [Native CSV Parsing](https://vowpalwabbit.org/rlos/2022/projects#native-csv-parsing) | [Click here to visit](proposal.md) | [Click here to visit](https://github.com/HollowMan6/vowpal_wabbit) |
 
 [Pre-Screening Exercise during Application](https://github.com/HollowMan6/vowpal_wabbit/commit/41b6d4c4eef65b94734bd0c228fde2b15d8a2ff5)
+
+[2022 Final Presentation Slides](slides.pptx)
+
+[2022 Final Report](report.md)
