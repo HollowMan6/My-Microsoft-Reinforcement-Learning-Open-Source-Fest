@@ -13,9 +13,9 @@
 
 这里是我的"微软强化学习开源节"活动记录与成果。
 
-|  年份   |  项目名称 | 申请材料 | 项目仓库 |
-|  ----  | ----  |  ----  | ----  |
-| [2022](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)  | [原生CSV解析](https://vowpalwabbit.org/rlos/2022/projects#native-csv-parsing) | [点此访问](proposal.md) | [点此访问](https://github.com/HollowMan6/vowpal_wabbit) |
+|  年份   |  项目名称 | 申请材料 | 项目仓库 | PR |
+|  ----  | ----  |  ----  | ----  | ---- | 
+| [2022](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)  | [原生CSV解析](https://vowpalwabbit.org/rlos/2022/projects#native-csv-parsing) | [点此访问](proposal.md) | [点此访问](https://github.com/HollowMan6/vowpal_wabbit) | [VowpalWabbit#4073](https://github.com/VowpalWabbit/vowpal_wabbit/pull/4073)
 
 [申请时的筛选挑战](https://github.com/HollowMan6/vowpal_wabbit/commit/41b6d4c4eef65b94734bd0c228fde2b15d8a2ff5)
 
@@ -26,9 +26,9 @@
 # My Microsoft Reinforcement Learning Open Source Fest
 This is my work and record under Microsoft Reinforcement Learning Open Source Fest.
 
-|  Year   |  Project Name  |  Application Proposal  | Project Repository  |
-|  ----  | ----  |  ----  | ----  |
-| [2022](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)  | [Native CSV Parsing](https://vowpalwabbit.org/rlos/2022/projects#native-csv-parsing) | [Click here to visit](proposal.md) | [Click here to visit](https://github.com/HollowMan6/vowpal_wabbit) |
+|  Year   |  Project Name  |  Application Proposal  | Project Repository  | PR |
+|  ----  | ----  |  ----  | ----  | ---- |
+| [2022](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)  | [Native CSV Parsing](https://vowpalwabbit.org/rlos/2022/projects#native-csv-parsing) | [Click here to visit](proposal.md) | [Click here to visit](https://github.com/HollowMan6/vowpal_wabbit) | [VowpalWabbit#4073](https://github.com/VowpalWabbit/vowpal_wabbit/pull/4073)
 
 [Pre-Screening Exercise during Application](https://github.com/HollowMan6/vowpal_wabbit/commit/41b6d4c4eef65b94734bd0c228fde2b15d8a2ff5)
 
