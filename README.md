@@ -11,6 +11,10 @@
 [![GPL Licence](https://img.shields.io/badge/license-GPL-blue)](https://opensource.org/licenses/GPL-3.0/)
 [![Repo-Size](https://img.shields.io/github/repo-size/HollowMan6/My-Microsoft-Reinforcement-Learning-Open-Source-Fest.svg)](../../archive/master.zip)
 
+## 2022 Certificate 证书
+
+[![2022](https://hollowman6.github.io/img/badges/RLOSFest.jpg)](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/alumni/#:~:text=Songlin)
+
 这里是我的"微软强化学习开源节"活动记录与成果。
 
 |  年份   |  项目名称 | 申请材料 | 项目仓库 | PR |
